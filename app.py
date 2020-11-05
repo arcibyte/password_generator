@@ -1,0 +1,3 @@
+import random
+
+chars ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKMNLROPQRSTUVWXYZ1234567890"
